@@ -166,8 +166,8 @@ uvicorn 07-llm-deployment.deploy_fastapi:app --reload  # your own AI, as an API
 | | |
 |---|---|
 | **Course** | Complete Generative AI Course: RAG, AI Agents & Deployment |
-| **Instructors** | Siddhardhan S, Aditya Sharma |
-| **Completed by** | *Your Name Here* (student) |
+| **Instructors** | Siddhardhan S|
+| **Completed by** | *Aditya Sharma* |
 | **Completed on** | September 8, 2026 |
 | **Damage** | 23 hours · 70 lectures · more coffee than I'd like to admit |
 
