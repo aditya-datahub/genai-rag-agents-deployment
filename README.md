@@ -14,7 +14,7 @@
 [![AWS](https://img.shields.io/badge/AWS-☁️-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-**📄 [Certificate](./assets/certificate/certificate.pdf)** &nbsp;•&nbsp; **🔗 [Verify it's real](ude.my/UC-2f827bf7-355e-4afe-8333-224ada998cd4)**
+**📄 [Certificate](./assets/certificate.pdf)** &nbsp;•&nbsp; **🔗 [Verify it's real](ude.my/UC-2f827bf7-355e-4afe-8333-224ada998cd4)**
 
 </div>
 
@@ -171,7 +171,7 @@ uvicorn 07-llm-deployment.deploy_fastapi:app --reload  # your own AI, as an API
 | **Completed on** | September 8, 2026 |
 | **Damage** | 23 hours · 70 lectures · more coffee than I'd like to admit |
 
-📄 [Certificate PDF](./assets/certificate/certificate.pdf) &nbsp;•&nbsp; 🔗 [Verify Online](ude.my/UC-2f827bf7-355e-4afe-8333-224ada998cd4)
+📄 [Certificate PDF](./assets/certificate.pdf) &nbsp;•&nbsp; 🔗 [Verify Online](ude.my/UC-2f827bf7-355e-4afe-8333-224ada998cd4)
 
 <br>
 
