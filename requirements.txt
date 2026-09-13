@@ -1,0 +1,29 @@
+# Core orchestration
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-openai==0.2.9
+langchain-groq==0.2.1
+llama-index==0.12.5
+
+# Agents
+pydantic-ai==0.0.13
+pyautogen==0.4.0
+crewai==0.86.0
+
+# Vector store & embeddings
+chromadb==0.5.20
+sentence-transformers==3.3.1
+
+# UI
+streamlit==1.40.2
+
+# Serving / deployment
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+
+# MCP
+mcp==1.1.2
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.10.2
